@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+TERRA היא החנות המקוונת המובילה לציוד חוץ וטיולים מקצועי. מצא את הציוד האמין ביותר למסעות הבאים שלך, עם מוצרים איכותיים שנבחרו במיוחד עבור מטיילים רציניים.
+
+### תכונות
+https://example.com/features
+גלה את התכונות המתקדמות של ציוד TERRA: חומרים עמידים, עיצוב ארגונומי ואמינות בשטח. כל מוצר עבר בדיקות קפדניות כדי להבטיח לך ביצועים מושלמים בכל תנאי מזג אוויר ושטח.
+
+### אודות
+https://example.com/about
+TERRA נולדה מאהבה עמוקה לטבע ולהרפתקה. אנחנו מאמינים שכל מטייל מקצועי ראוי לציוד שלא מתפשר. גלה את המשימה שלנו ואת הערכים שמניעים אותנו לספק לך את הטוב ביותר.
+
+### צור קשר
+https://example.com/contact
+צוות המומחים של TERRA זמין לעזור לך לבחור את ציוד הטיולים המושלם. צור איתנו קשר עוד היום, קבל ייעוץ אישי ומקצועי ותצא לדרך מצויד ומוכן לכל הרפתקה שמחכה לך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - TERRA
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - TERRA
+
+### Category
+https://example.com/category/:slug
+מוצרים - TERRA
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
